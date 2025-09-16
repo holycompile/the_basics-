@@ -1,3 +1,7 @@
+/* here's a program on armstrong number 
+Eg: 153 , 1634
+     cube each of the digits and finally find the sum of them to get the exact number again
+*/
 #include<iostream>
 using namespace std;
 int pro(int x){
@@ -19,4 +23,5 @@ int main()
     cout<<"Yes armstrong ";
     else
     cout<<"Not a armstrong";
+
 }
