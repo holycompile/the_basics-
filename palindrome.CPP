@@ -1,6 +1,6 @@
 /* code for palindrome number 
  Eg: 121 
-  a;; you need to do is to reverse the digits and you will get the same number again!
+  what you need to do is to reverse the digits and you will get the same number again!
   */
  #include<iostream>
 using namespace std;
@@ -22,5 +22,6 @@ int main()
     else 
     cout<<"Not plaindrome"<<endl;
     return 1;
+
 
 }
